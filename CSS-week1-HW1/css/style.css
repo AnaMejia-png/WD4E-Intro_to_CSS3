@@ -3,6 +3,10 @@ body{
   font-size: 200%;
 }
 
+body {
+    background: red !important;
+}
+
 header{
   background-color: blanchedalmond;
   text-align: center;
